@@ -1,0 +1,422 @@
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  /* CSS */
+  .header .header-bannner .inner-banner h1 {
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner p {
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner h5 {
+    margin: 0px 0px 0px;
+  }
+  .feature .inner-feature p {
+    padding: 5px 0px;
+  }
+  .upper-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+  }
+  .upper-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .upper-detail .detail-banner .detail-inner ul{
+    margin: 0px;
+  }
+  .lower-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    text-align: left;
+  }
+  .lower-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .testimonial .title {
+    width: 100%;
+    text-align: center;
+    margin-top: 48px;
+  }
+  .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+    margin: 24px 0px;
+  }
+  .owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: -80px;
+  }
+  .eye-catcher {
+    padding: 18px 0px;
+  }
+  .eye-catcher .eye-catcher-btn {
+    width: 100%;
+    padding-top: 18px;
+    padding-left: 0px;
+  }
+  .pricing .price-inner .price-body p {
+    padding: 38px 0px;
+  }
+  .contact .main-form .form-group .btn-primary {
+    margin: 20px 0px 0px;
+  }
+  .contact .main-form {
+    margin: 40px 0px;
+  }
+  .contact .main-form .form-group .form-control {
+    padding: 5px;
+  }
+  .contact .main-form .form-group .message {
+    padding: 5px;
+    height: 100px;
+  }
+}
+
+/* 992px-1024px */
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .header .header-bannner .inner-banner-poster img {
+    width: 100%;
+    margin-top: 11px !important;
+  }
+  .eye-catcher .eye-catcher-btn {
+    width: 100%;
+    padding-left: 0px;
+  }
+}
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* CSS */
+  .header .header-menu .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .header .header-bannner .inner-banner h1 {
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner p {
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner h5 {
+    margin: 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner-poster img {
+    width: 100%;
+    margin-top: 214px;
+  }
+  .feature .inner-feature p {
+    padding: 5px 0px;
+  }
+  .upper-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+  }
+  .upper-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .upper-detail .detail-banner .detail-inner ul{
+    margin: 0px;
+  }
+  .lower-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    text-align: right;
+  }
+  .lower-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .testimonial .title {
+    width: 100%;
+    text-align: center;
+    margin-top: 48px;
+  }
+  .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+    margin: 24px 0px;
+  }
+  .owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: -80px;
+  }
+  .eye-catcher {
+    padding: 18px 0px;
+  }
+  .eye-catcher .eye-catcher-btn {
+    width: 100%;
+    padding-top: 18px;
+  }
+  .pricing .price-inner .price-body p {
+    padding: 38px 0px;
+  }
+  .contact .main-form .form-group .btn-primary {
+    margin: 20px 0px 0px;
+  }
+  .contact .main-form {
+    margin: 40px 0px;
+  }
+  .contact .main-form .form-group .form-control {
+    padding: 5px;
+  }
+  .contact .main-form .form-group .message {
+    padding: 5px;
+    height: 100px;
+  }
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  /* CSS */
+  .header .header-menu .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .header .header-bannner .inner-banner h1 {
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner p {
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner h5 {
+    margin: 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner-poster img {
+    width: 100%;
+    margin-top: 214px;
+  }
+  .feature .inner-feature p {
+    padding: 5px 0px;
+  }
+  .upper-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+  }
+  .upper-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .upper-detail .detail-banner .detail-inner ul{
+    margin: 0px;
+  }
+  .lower-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    text-align: right;
+  }
+  .lower-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .testimonial .title {
+    width: 100%;
+    text-align: center;
+    margin-top: 48px;
+  }
+  .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+    margin: 24px 0px;
+  }
+  .owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: -80px;
+  }
+  .eye-catcher {
+    padding: 18px 0px;
+  }
+  .pricing .price-inner .price-body p {
+    padding: 38px 0px;
+  }
+  .contact .main-form .form-group .btn-primary {
+    margin: 20px 0px 0px;
+    width: 135px;
+    height: 46px;
+  }
+  .contact .main-form {
+    margin: 40px 0px;
+  }
+  .contact .main-form .form-group .form-control {
+    padding: 5px;
+  }
+  .contact .main-form .form-group .message {
+    padding: 5px;
+    height: 140px;
+  }
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  /* CSS */
+  .header .header-menu .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .header .header-bannner .inner-banner h5 {
+    text-align: center;
+  }
+  .header .header-bannner .inner-banner h1 {
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner p {
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+  }
+  .header .header-bannner .inner-banner-btn {
+    justify-content: center;
+    display: flex;
+  }
+  .feature .inner-feature p {
+    padding: 5px 0px;
+  }
+  .upper-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+  }
+  .upper-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .upper-detail .detail-banner .detail-inner ul{
+    margin: 0px;
+  }
+  .lower-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    text-align: right;
+  }
+  .lower-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .testimonial .title {
+    width: 100%;
+    text-align: center;
+    margin-top: 48px;
+  }
+  .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+    margin: 24px 0px;
+  }
+  .owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: -80px;
+  }
+  .eye-catcher {
+    padding: 18px 0px;
+  }
+  .eye-catcher .eye-catcher-btn {
+    width: 100%;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+  }
+  .pricing .price-inner .price-body p {
+    padding: 38px 0px;
+  }
+  .contact .main-form .form-group .btn-primary {
+    margin: 20px 0px 0px;
+  }
+  .contact .main-form {
+    margin: 40px 0px;
+  }
+  .contact .main-form .form-group .form-control {
+    padding: 5px;
+  }
+  .contact .main-form .form-group .message {
+    padding: 5px;
+    height: 100px;
+  }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  /* CSS */
+  .header .header-menu .navbar-light .navbar-nav .nav-link {
+    text-align: center;
+  }
+  .header .header-bannner .inner-banner h5 {
+    text-align: center;
+    margin: 10px 0px 0px;
+  }
+  .header .header-bannner .inner-banner h1 {
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    margin: 10px 0px 0px;
+  }
+  .header .header-bannner .inner-banner p {
+    padding: 0px 0px 0px 0px;
+    margin: 10px 0px 0px;
+    text-align: center;
+  }
+  .header .header-bannner .inner-banner-btn {
+    justify-content: center;
+    display: flex;
+  }
+  .feature .inner-feature p {
+    padding: 5px 0px;
+  }
+  .upper-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+  }
+  .upper-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .upper-detail .detail-banner .detail-inner ul{
+    margin: 0px;
+  }
+  .lower-detail .detail-banner .detail-inner {
+    margin-top: 0px;
+    text-align: right;
+  }
+  .lower-detail .detail-banner .detail-inner p{
+    padding-right: 0px;
+  }
+  .testimonial .title {
+    width: 100%;
+    text-align: center;
+    margin-top: 48px;
+  }
+  .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+    margin: 24px 0px;
+  }
+  .owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: -80px;
+  }
+  .eye-catcher {
+    padding: 18px 0px;
+  }
+  .eye-catcher .eye-catcher-btn {
+    width: 100%;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+  }
+  .pricing .price-inner .price-body p {
+    padding: 38px 0px;
+  }
+  .contact .main-form .form-group .btn-primary {
+    margin: 20px 0px 0px;
+  }
+  .contact .main-form {
+    margin: 40px 0px;
+  }
+  .contact .main-form .form-group .form-control {
+    padding: 5px;
+  }
+  .contact .main-form .form-group .message {
+    padding: 5px;
+    height: 100px;
+  }
+}
+
